@@ -23,6 +23,5 @@ public class HiFour {
 		// Say hello to the names in s0 through s3.
 		//
 
-		
 	}
 }
