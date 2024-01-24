@@ -15,7 +15,7 @@ public class Average {
 		
 		double average = (n1+n2)/2.0;
 		System.out.println("Average of " + n1 + " and " + n2 + " is "+ average );
-
+		// Comment 
 	}
 
 }
